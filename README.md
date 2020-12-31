@@ -1,2 +1,1 @@
-# Eris-bos-altyapi
-Eris, NodeJS
+#NodeJS tabanlı Discord kütüphanesi Eris
